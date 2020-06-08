@@ -1,6 +1,7 @@
+#!/usr/bin/python3
 
 
-# REMZI BULUTLU - 160709013 - python3
+# REMZI BULUTLU - 160709013
 
 import os
 import requests
